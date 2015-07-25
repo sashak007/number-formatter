@@ -1,0 +1,30 @@
+{
+  "name": "@sashak007/number-formatter",
+  "version": "0.0.1",
+  "description": "Node.js module tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "engines": {
+    "node": ">=0.12.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashak007/number-formatter.git"
+  },
+  "keywords": [
+    "node",
+    "module"
+  ],
+  "author": "Natasha <natasha.sha.shaaa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sashak007/number-formatter/issues"
+  },
+  "homepage": "https://github.com/sashak007/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
